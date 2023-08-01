@@ -4,7 +4,7 @@
 
 I am a Full Stack Dev from Philadelphia
 
-Skills: NODE.js / REACT / JS / HTML / CSS / MONGO.DB
+Skills: NODE.js / REACT / JS / HTML / CSS / MONGO.DB / C# / TYPESCRIPT / PYTHON 
 
 - 🔭 I’m currently working on JavaScript 
 - 🌱 I’m currently learning JavaScript 
