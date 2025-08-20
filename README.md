@@ -4,9 +4,12 @@
 </div>
 
 ###
+<!-- Light mode -->
+![Pacman Contribution Graph](https://raw.githubusercontent.com/victorazizj/output/main/pacman-contribution-graph.svg#gh-light-mode-only)
 
-![Light mode](https://raw.githubusercontent.com/victorazizj/output/pacman-contribution-graph.svg#gh-light-mode-only)
-![Dark mode](https://raw.githubusercontent.com/victorazizj/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only)
+<!-- Dark mode -->
+![Pacman Contribution Graph](https://raw.githubusercontent.com/victorazizj/output/main/pacman-contribution-graph-dark.svg#gh-dark-mode-only)
+
 
 
 ###
